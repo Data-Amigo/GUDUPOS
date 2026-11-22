@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.db
+tests/
+tools/
+docs/
+run_local.bat
+demo_statement.pdf
